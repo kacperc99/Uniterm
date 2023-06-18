@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Uniterm">
+</Property><Property Name="Solution File" Value="H:\SŁOWIK\Uniterm\Uniterm.sln">
+</Property><Property Name="User Options File" Value="H:\SŁOWIK\Uniterm\Uniterm.suo">
+</Property><Property Name="Date" Value="Thursday, March 22, 2012">
+</Property><Property Name="Time" Value="17:54 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Uniterm.sln" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Uniterm.suo" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm.suo">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\Uniterm.csproj" Description="Project file successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\Uniterm.csproj">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\Uniterm.csproj.user" Description="Project user file successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\Uniterm.csproj.user">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\App.xaml.cs" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\Window1.xaml.cs" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\AddElem.xaml.cs" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\AddElem.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\AddUniterm.xaml.cs" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\AddUniterm.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\DataBase.cs" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\DataBase.cs">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\MyCanvas.cs" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\MyCanvas.cs">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\MyDrawing.cs" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\MyDrawing.cs">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\Properties\AssemblyInfo.cs" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\Properties\Resources.Designer.cs" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\Properties\Settings.Designer.cs" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\Properties\Settings.settings" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\Properties\Resources.resx" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\App.xaml" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\App.xaml">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\AddElem.xaml" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\AddElem.xaml">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\AddUniterm.xaml" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\AddUniterm.xaml">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\Window1.xaml" Description="File successfully backed up as H:\SŁOWIK\Uniterm\Backup\Uniterm\Window1.xaml">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\Uniterm.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Uniterm" Source="Uniterm\Uniterm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Uniterm.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Uniterm.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Uniterm" Source="Uniterm\Uniterm.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
